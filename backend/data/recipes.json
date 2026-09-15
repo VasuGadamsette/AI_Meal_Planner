@@ -1,0 +1,144 @@
+[
+  {
+    "id": 1,
+    "title": "Vegetable Poha",
+    "meal_type": "Breakfast",
+    "cuisine": "Indian",
+    "diet": "Vegetarian",
+    "cooking_time": 20,
+    "ingredients": [
+      "Poha",
+      "Onion",
+      "Peanuts",
+      "Green Chilli",
+      "Curry Leaves",
+      "Turmeric"
+    ],
+    "instructions": [
+      "Wash and drain the poha.",
+      "Heat oil and add peanuts.",
+      "Add onion, green chilli and curry leaves.",
+      "Add turmeric and poha.",
+      "Mix well and cook for 3-4 minutes."
+    ],
+    "nutrition": {
+      "calories": 280,
+      "protein": 7,
+      "carbs": 45,
+      "fat": 8
+    }
+  },
+  {
+    "id": 2,
+    "title": "Vegetable Pulao",
+    "meal_type": "Lunch",
+    "cuisine": "Indian",
+    "diet": "Vegetarian",
+    "cooking_time": 35,
+    "ingredients": [
+      "Rice",
+      "Carrot",
+      "Peas",
+      "Onion",
+      "Beans",
+      "Garam Masala"
+    ],
+    "instructions": [
+      "Wash and soak rice.",
+      "Saute onion and vegetables.",
+      "Add spices and rice.",
+      "Add water and cook until rice is tender.",
+      "Rest for 5 minutes before serving."
+    ],
+    "nutrition": {
+      "calories": 420,
+      "protein": 9,
+      "carbs": 72,
+      "fat": 10
+    }
+  },
+  {
+    "id": 3,
+    "title": "Vegetable Khichdi",
+    "meal_type": "Dinner",
+    "cuisine": "Indian",
+    "diet": "Vegetarian",
+    "cooking_time": 30,
+    "ingredients": [
+      "Rice",
+      "Moong Dal",
+      "Carrot",
+      "Peas",
+      "Turmeric",
+      "Ghee"
+    ],
+    "instructions": [
+      "Wash rice and moong dal.",
+      "Add vegetables and turmeric.",
+      "Cook everything together until soft.",
+      "Add ghee before serving."
+    ],
+    "nutrition": {
+      "calories": 360,
+      "protein": 14,
+      "carbs": 55,
+      "fat": 9
+    }
+  },
+  {
+    "id": 4,
+    "title": "Masala Dosa",
+    "meal_type": "Breakfast",
+    "cuisine": "South Indian",
+    "diet": "Vegetarian",
+    "cooking_time": 40,
+    "ingredients": [
+      "Dosa Batter",
+      "Potato",
+      "Onion",
+      "Green Chilli",
+      "Curry Leaves"
+    ],
+    "instructions": [
+      "Prepare potato masala with onion and spices.",
+      "Heat a dosa pan.",
+      "Spread dosa batter thinly.",
+      "Add potato masala.",
+      "Fold and serve."
+    ],
+    "nutrition": {
+      "calories": 390,
+      "protein": 8,
+      "carbs": 62,
+      "fat": 11
+    }
+  },
+  {
+    "id": 5,
+    "title": "Paneer Vegetable Curry",
+    "meal_type": "Dinner",
+    "cuisine": "Indian",
+    "diet": "Vegetarian",
+    "cooking_time": 35,
+    "ingredients": [
+      "Paneer",
+      "Tomato",
+      "Onion",
+      "Capsicum",
+      "Garam Masala"
+    ],
+    "instructions": [
+      "Saute onion and tomato.",
+      "Add spices.",
+      "Add capsicum and paneer.",
+      "Cook for 10 minutes.",
+      "Serve hot."
+    ],
+    "nutrition": {
+      "calories": 450,
+      "protein": 20,
+      "carbs": 18,
+      "fat": 28
+    }
+  }
+]
